@@ -1,0 +1,6 @@
+{
+  "name": "UP Police Previous Year Papers & Mock Test Portal",
+  "description": "Comprehensive 10-year official UP Police Constable & SI / UPSI previous year question papers, timed mock tests, subject-wise practice, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
